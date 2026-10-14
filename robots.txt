@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://watraq.mpro9.com/sitemap.xml
